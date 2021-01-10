@@ -10,20 +10,18 @@ Welcome to Treasure Island.
 
 Your mission is to find the treasure.
 
-You are at a cross road which way you want to go? left or right 
+You're at a cross road. Where do you want to go? Type "left" or "right" 
 
 left
 
-Do you want to swim or wait? 
+You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across. 
 
 wait
 
-Which door you want to open ? 
+You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose? 
 
- Red , Blue or Yellow 
- 
-yellow
+red
 
-You WIN !!!!
+It's a room full of fire. Game Over.
 
 **************
